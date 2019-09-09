@@ -1,0 +1,11 @@
+{
+  "name": "gs-json-loader",
+  "version": "1.0.2",
+  "description": "Load json file from a direction",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "author": "wormggmm",
+  "license": "ISC"
+}
