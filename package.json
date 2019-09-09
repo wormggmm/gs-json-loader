@@ -7,5 +7,9 @@
     "test": "node ./test/test.js"
   },
   "author": "wormggmm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wormggmm/gs-json-loader.git"
+  },
   "license": "ISC"
 }
