@@ -2,12 +2,12 @@
 Load all Json file in a dir which file by end of .json .Json .JSON.
 Support node version: 8.11.1/8.11.1+ need node support await/async
 e.g. workSpace:
-
+```
 testConfig
 |--testDir1
 |----testConfig1.json
 |--testConfig2.json
-
+```
 Code:
 ## Usage Async
 ```javascript 
